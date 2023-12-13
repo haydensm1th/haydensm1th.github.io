@@ -35,7 +35,10 @@ h1 {
 
 .about img {
     float: right;
-    width: 700px;
+    max-width: 60%;
+    max-height: 60%;
+    margin-right: 10%;
+    margin-bottom: 25%;
 }
 
 .about {
